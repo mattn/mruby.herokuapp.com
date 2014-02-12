@@ -1,0 +1,16 @@
+mruby.herokuapp.com
+===================
+
+INSTALL
+-------
+
+    heroku create -b https://github.com/mattn/mruby-buildpack
+
+THANKS
+------
+
+This is based on:
+
+* https://github.com/take-cheese/mruby-buildpack
+* https://github.com/take-cheeze/mruby-test-server
+* http://qiita.com/take_cheeze/items/a2deaca5c150e1a489a7
